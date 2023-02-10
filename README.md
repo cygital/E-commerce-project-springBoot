@@ -1,7 +1,7 @@
 # E-commerce_website-in-java
 
 
-## E - COMMERCE WEB PROJECT IN SPRING BOOT
+## E - COMMERCE WEB PROJECT IN SPRING BOOT Extensions
 
 
 
